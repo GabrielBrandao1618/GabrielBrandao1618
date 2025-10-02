@@ -2,7 +2,7 @@
 
 #### ✨A few fun facts about me:
 
-* I code in Java, Kotlin, Golang, Typescript, Rust, Python, C# and a little bit of c, c++ and Elixir
+* I code in Java, Kotlin, Golang, Typescript, Rust, Python, C#, Elixir and a little bit of c 
 * I have my own programming language (refer to Dashlang)
 * I love to learn new things
 
